@@ -1,0 +1,15 @@
+.header{
+            background-color: lightblue;
+            justify-content: space-between;
+
+            display: flex;
+        }
+.footer{
+            background-color: blue;
+        }
+    *{
+        margin: 0px;
+    }
+    .disp{
+        display: flex;
+    }
